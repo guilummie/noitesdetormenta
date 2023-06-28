@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":2,"characterName":"Helena character","classId":1,"equips":[1,1,2,3,4],"faceIndex":0,"faceName":"Helena faces","traits":[],"initialLevel":1,"maxLevel":15,"name":"Helena","nickname":"Nêmesis","note":"<attackVoice:HelenaAttack>\n<magicVoice:HelenaSkill>","profile":"Helena é uma bruxa com mais de 500 anos de idade.\nEla era odiada pelo povo até salvar muitas vidas durante a Grande Cisão."},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"Rosetta","classId":4,"equips":[6,6,7,8,9],"faceIndex":0,"faceName":"Rosetta","traits":[],"initialLevel":1,"maxLevel":15,"name":"Rosetta","nickname":"Cavaleira Novata","note":"<attackVoice:RosettaAttack>\n<magicVoice:RosettaSkill>","profile":"Rosetta é uma cavaleira recém-formada na academia.\nEla era a melhor aluna de sua turma, o que a tornou muito arrogante."},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"KidLumine","classId":5,"equips":[11,11,12,13,14],"faceIndex":0,"faceName":"KidLumine","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lumine","nickname":"Princesa de \\c[6]IUSTIX\\c[0]","note":"<attackVoice:LumineAttack>\n<magicVoice:LumineSkill>","profile":"Lumine é a filha desaparecida de Alice, a Princesa.\nEla é a reencarnação da \\C[14]DEUSA DA JUSTIÇA\\c[0]. É por isso que Superbus quer tanto ela."},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Iustitia","nickname":"","note":"","profile":""}
+]
